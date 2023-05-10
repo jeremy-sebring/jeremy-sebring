@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeremy-sebring
-- 👀 I’m interested in Dev, Sec, Ops, or anything else intresting. 
+- 👀 I’m interested in Dev, Sec, Ops, or anything else interesting. 
 - 🌱 I’m currently learning many things. 
 - 💞️ I’m looking to collaborate on open source security projects
 - 📫 Reach me anywhere you can find me! 
